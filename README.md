@@ -67,12 +67,17 @@ print(cm)
 
 ## Output:
 ![Screenshot 2025-04-25 134814](https://github.com/user-attachments/assets/625f2514-fb67-47d9-a158-35e9753cd7d3)
+
+
 ![Screenshot 2025-04-25 134853](https://github.com/user-attachments/assets/fa19e10f-fee2-4ad5-b49b-30b799cdbc8c)
+
+
 ![Screenshot 2025-04-25 135003](https://github.com/user-attachments/assets/31ecbd29-78d6-4016-97ce-08c35e8790d1)
+
+
 ![Screenshot 2025-04-25 135026](https://github.com/user-attachments/assets/a4dc395b-cffa-4bc1-aef7-80f997e3b1db)
 
 
-![prediction of iris species using SGD Classifier](sam.png)
 
 
 ## Result:
